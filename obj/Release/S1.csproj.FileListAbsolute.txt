@@ -1,0 +1,13 @@
+C:\Users\Programming\source\repos\S1\bin\Release\S1.exe.config
+C:\Users\Programming\source\repos\S1\bin\Release\S1.exe
+C:\Users\Programming\source\repos\S1\bin\Release\S1.pdb
+C:\Users\Programming\source\repos\S1\obj\Release\S1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\source\repos\S1\obj\Release\S1.Form1.resources
+C:\Users\Programming\source\repos\S1\obj\Release\S1.Properties.Resources.resources
+C:\Users\Programming\source\repos\S1\obj\Release\S1.csproj.GenerateResource.cache
+C:\Users\Programming\source\repos\S1\obj\Release\S1.csproj.CoreCompileInputs.cache
+C:\Users\Programming\source\repos\S1\obj\Release\S1.exe
+C:\Users\Programming\source\repos\S1\obj\Release\S1.pdb
+C:\Users\Programming\source\repos\S1\obj\Release\S1.csproj.AssemblyReference.cache
+C:\Users\Programming\source\repos\S1\bin\Release\Guna.UI2.dll
+C:\Users\Programming\source\repos\S1\obj\Release\S1.csproj.CopyComplete
